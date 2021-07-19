@@ -3,7 +3,7 @@
     <Configuration Name="Release">
         <Options>
             <ExceptionReporting Template="res:{SmartExceptions}.NoUI_NetStandard.dll" />
-            <FeatureUsageReporting Template="res:SmartUsageWithoutUI_NetStandard.dll" />
+            <FeatureUsageReporting Template="res:SmartUsageWithoutUI_NetStandard.dll0000" />
             <StringsEncoding Compress="1" Encode="1" UseCache="1" UseImprovedEncoding="1" />
             <StrongNameSigning />
             <Obfuscation ChangeMethodParent="1" FieldsNameMangling="3" NameMangling="1" />
