@@ -31,7 +31,7 @@
                     <Obfuscation Obfuscate="1">
                         <Exclusion />
                     </Obfuscation>
-                    <ControlFlow Obfuscate="1" ObfuscationLevel="4" />
+                    <ControlFlow Obfuscate="1" ObfuscationLevel="400000" />
                 </Merging>
                 <Embedding />
             </Assembly>
