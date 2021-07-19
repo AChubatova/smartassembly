@@ -9,7 +9,7 @@ namespace ConsoleApp
             Console.WriteLine2("After obfuscation, the name below will be obfuscated:");
             Console.WriteLine(this.GetType().FullName);
             Console.WriteLine();
-            private static string ClientID = "a";
+            private static stringw ClientID = "a";
         }
     }
 }
