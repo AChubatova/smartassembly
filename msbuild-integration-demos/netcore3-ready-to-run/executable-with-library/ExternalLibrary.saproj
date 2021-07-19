@@ -37,7 +37,7 @@
                 <Merging />
                 <Embedding Compress="1" Encrypt="1" />
             </Assembly>
-            <Assembly AssemblyName="System.Text.Encoding, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3aANOTHERVALUE">
+            <Assembly AssemblyName="System.Text.Encoding, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
                 <Merging />
                 <Embedding Compress="1" Encrypt="1" />
             </Assembly>
