@@ -11,6 +11,6 @@ namespace ConsoleApp
             Console.WriteLine();
 
         }
-        private static string ClientID = "a";
+        private static string2 ClientID = "a";
     }
 }
