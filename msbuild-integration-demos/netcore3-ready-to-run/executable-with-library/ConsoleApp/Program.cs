@@ -11,7 +11,7 @@ namespace ConsoleApp
 
             Console.WriteLine("Calling external library...");
             var c2 = new ExternalLibrary.PublicClass();
-            c2.PrintClassName();
+            c2.PrintClassName2();
 
             Console.WriteLine("Press any key to continue...");
             Console.ReadKey();
