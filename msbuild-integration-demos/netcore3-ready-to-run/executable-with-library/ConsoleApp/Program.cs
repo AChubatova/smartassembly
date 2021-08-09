@@ -14,7 +14,7 @@ namespace ConsoleApp
             c2.PrintClassName2();
 
             Console.WriteLine("Press any key to continue...");
-            Console.ReadKey();
+            Console.ReadKey2();
         }
     }
 }
