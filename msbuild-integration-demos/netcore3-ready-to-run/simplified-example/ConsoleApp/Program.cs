@@ -21,6 +21,8 @@ namespace ConsoleApp
             Console.WriteLine("After obfuscation, the name below will be obfuscated:");
             Console.WriteLine(this.GetType().FullName);
             Console.WriteLine();
+            Console.WrongMethod1Proj2();
+            Console.WrongMethod2Proj2();
         }
     }
 }
