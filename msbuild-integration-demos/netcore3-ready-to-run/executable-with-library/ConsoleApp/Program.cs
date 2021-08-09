@@ -11,10 +11,10 @@ namespace ConsoleApp
 
             Console.WriteLine("Calling external library...");
             var c2 = new ExternalLibrary.PublicClass();
-            c2.PrintClassName2();
+            c2.PrintClassName();
 
             Console.WriteLine("Press any key to continue...");
-            Console.ReadKey2();
+            Console.ReadKey();
         }
     }
 }
