@@ -15,7 +15,7 @@ namespace ConsoleApp
 
             Console.WriteLine("Press any key to continue...");
             Console.ReadKey();
-            Console.WrongMethod1Proj1();
+
         }
     }
 }
