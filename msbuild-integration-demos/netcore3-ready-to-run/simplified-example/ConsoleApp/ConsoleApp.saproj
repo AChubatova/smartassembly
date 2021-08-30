@@ -1,5 +1,5 @@
 <SmartAssemblyProject ProjectId="{8f859a4f-0707-44c2-a692-f203b5a1c312}" Version="2.0">
-    <MainAssemblyFileName>.\bin\Release\netcoreapp3.1\ConsoleApp.dll</MainAssemblyFileName>
+    <MainAssemblyFileName>.\bin\Release\netcoreapp3.1\wrongpath\ConsoleApp.dll</MainAssemblyFileName>
     <Configuration Name="Release">
         <Options>
             <ExceptionReporting Template="res:{SmartExceptions}.NoUI_NetStandard.dll" />
