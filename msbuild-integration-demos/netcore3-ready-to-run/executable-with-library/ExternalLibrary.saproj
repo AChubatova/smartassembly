@@ -1,5 +1,5 @@
 <SmartAssemblyProject ProjectId="{6b389f32-d0fb-4612-b9a1-7cca4b1dbbf6}" Version="2.0">
-    <MainAssemblyFileName>.\ExternalLibrary\bin\Release\netstandard2.0\ExternalLibrary.dll</MainAssemblyFileName>
+    <MainAssemblyFileName>.\ExternalLibrary\bin\Release\netstandard2.0\wrongpath\ExternalLibrary.dll</MainAssemblyFileName>
     <Configuration Name="Release">
         <Options>
             <ExceptionReporting Template="res:{SmartExceptions}.NoUI_NetStandard.dll" />
